@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df4b0321-5796-4584-adf1-1118aee1e0eb" name="Default Changelist" comment="automation" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Features/Login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+                <element signature="e#1023#1024#0" expanded="true" />
+                <element signature="e#1078#1079#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/robi/robi-config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/LoginPageSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/testRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gherkin feature file" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>googlePage</find>
+      <find>Singleton</find>
+      <find>sleep</find>
+      <find>Verify login as admin</find>
+      <find>Verify login as</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>loginPage</replace>
+      <replace>sample</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/DashboardPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utillities/sample2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utillities/sample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utillities/CFG.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utillities/ConfigDataProvider.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utillities/BrowserFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageObjects/DashboardPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/DashboardPageSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utillities/BaseClass.java" />
+        <option value="$PROJECT_DIR$/Features/Login2.feature" />
+        <option value="$PROJECT_DIR$/config/banglalink/banglalink-config.properties" />
+        <option value="$PROJECT_DIR$/config/mspace/mspace-config.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/utillities/OperatorConfigDataProvider.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageObjects/SPRegistrationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/SPRegistrationPageSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utillities/ActionCommands.java" />
+        <option value="$PROJECT_DIR$/Features/SP_Registration.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/utillities/Testl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testRunner/testRunner.java" />
+        <option value="$PROJECT_DIR$/config/config.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginPageSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" />
+        <option value="$PROJECT_DIR$/config/robi/robi-config.properties" />
+        <option value="$PROJECT_DIR$/Features/Login.feature" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectId" id="2QawF4KABlfeZEaUyipCqYjHcOv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Registration-V3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Registration-V3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Registration-V3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Registration-V3" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Registration-V3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Registration-V3" type="462c0819:PsiDirectoryNode" />
+              <item name="Features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Registration-V3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Registration-V3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Registration-V3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Registration-V3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Registration-V3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Registration-V3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Registration-V3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Registration-V3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Registration-V3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Registration-V3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: BankDashboard.executor": "Run",
+    "Cucumber Java.Feature: BankLogin.executor": "Run",
+    "Cucumber Java.Feature: BulkMessagingPortal.executor": "Run",
+    "Cucumber Java.Feature: Provisioning.executor": "Run",
+    "Cucumber Java.Feature: Registration.executor": "Run",
+    "Cucumber Java.Feature: SecureMessaging.executor": "Run",
+    "Cucumber Java.Feature: SeylanDashboard.executor": "Run",
+    "Cucumber Java.Feature: SeylanLogin.executor": "Run",
+    "Cucumber Java.Scenario: After rejecting the customer care agent request of viewing the secure message, the status must appear as ‘Rejected’ in the dashboard of the customer care agent,Verify whether the the Reporting user should be able to view the reason the admin rejected the request...executor": "Run",
+    "Cucumber Java.Scenario: After rejecting the customer care agent request of viewing the secure message, the status must appear as ‘Rejected’ in the dashboard of the customer care agent..executor": "Run",
+    "Cucumber Java.Scenario: Check  the available components for admin user in provisioning UI-54970.executor": "Run",
+    "Cucumber Java.Scenario: Check \"Contact Management\" UI when previously added contact lists are not available.executor": "Run",
+    "Cucumber Java.Scenario: Check Application Drop Down Functionality,.executor": "Run",
+    "Cucumber Java.Scenario: Check Application Drop Down Functionality,Check validations in the \"List Name\" field in Add Contact Lists UI.executor": "Run",
+    "Cucumber Java.Scenario: Check Application Drop Down Functionality.executor": "Run",
+    "Cucumber Java.Scenario: Check File Upload Approval option available on department admin bulk messaging portal.executor": "Run",
+    "Cucumber Java.Scenario: Check Send Bulk Messages UI Unicode support.executor": "Run",
+    "Cucumber Java.Scenario: Check coorparate users allowed to cancel the scheduled message.executor": "Run",
+    "Cucumber Java.Scenario: Check coorparate users allowed to reschedule the scheduled message.executor": "Run",
+    "Cucumber Java.Scenario: Check file upload option available on under approved soltura applications.executor": "Run",
+    "Cucumber Java.Scenario: Check functionality of navigation menu home icon.executor": "Run",
+    "Cucumber Java.Scenario: Check functionality of navigation menu logout link.executor": "Run",
+    "Cucumber Java.Scenario: Check invalid user in Active Directory can log into the system-59643.executor": "Run",
+    "Cucumber Java.Scenario: Check new tab introduced to View Bulk Messaging Application UI-59465.executor": "Run",
+    "Cucumber Java.Scenario: Check new tab introduced to View Bulk Messaging Application UI.executor": "Run",
+    "Cucumber Java.Scenario: Check the available components for SP user in provisioning UI-54969,check whether sp user is able to view the provisioned applications by clicking on ‘View My Applications’ inside navigation menu.-54979,Check Wheterh SP is able to view TPS, TPD validations for NCSs to which he/ she has access to-55003.executor": "Run",
+    "Cucumber Java.Scenario: Check the available components for SP user in provisioning UI-54969.executor": "Run",
+    "Cucumber Java.Scenario: Check the available components in navigation manu.executor": "Run",
+    "Cucumber Java.Scenario: Check the available components in the SP home page.executor": "Run",
+    "Cucumber Java.Scenario: Check the available components in the admin home page.executor": "Run",
+    "Cucumber Java.Scenario: Check the functioning of Disable option.executor": "Run",
+    "Cucumber Java.Scenario: Check the functioning of Manage Users search filter.executor": "Run",
+    "Cucumber Java.Scenario: Check the functioning of ‘Manage Users’ option.executor": "Run",
+    "Cucumber Java.Scenario: Check valid user in Active Directory can log into the system-59642.executor": "Run",
+    "Cucumber Java.Scenario: Check validation for file upload file upload bulk message campaign creation-59463, Check wheather file upload bulk message campaigns can create successfully-59462.executor": "Run",
+    "Cucumber Java.Scenario: Check validation for file upload file upload bulk message campaign creation.executor": "Run",
+    "Cucumber Java.Scenario: Check validation of username field for LDAP intergration via Messaging gateway-61047.executor": "Run",
+    "Cucumber Java.Scenario: Check validation of username field for LDAP intergration via Messaging gateway-610474.executor": "Run",
+    "Cucumber Java.Scenario: Check what are tha actions an admin can perfome of an application in pending approve status-54985.executor": "Run",
+    "Cucumber Java.Scenario: Check what would be the result if app name and status are left blank what would be the result in the Manage Applications-55002.executor": "Run",
+    "Cucumber Java.Scenario: Check wheteher admin user is able to search application by app name in Manage Applications-55000.executor": "Run",
+    "Cucumber Java.Scenario: Check wheteher admin user is able to search application by app status-55001.executor": "Run",
+    "Cucumber Java.Scenario: Check whether Admin is able to visit the registration module by clicking on the ‘Registration’ icon..executor": "Run",
+    "Cucumber Java.Scenario: Check whether SP is able to request via Provisioning module, to change the application state from Limited Production to Active Production.-54997.executor": "Run",
+    "Cucumber Java.Scenario: Check whether SP users are able to login to the system via the common login UI with wrong password.executor": "Run",
+    "Cucumber Java.Scenario: Check whether admin user is able to Approve application in pending approve status and Move the app at Schedule a time for app to be moved to Active Production-54991.executor": "Run",
+    "Cucumber Java.Scenario: Check whether admin user is able to Edit application in pending approve status-54987.executor": "Run",
+    "Cucumber Java.Scenario: Check whether admin user is able to move application to  Limited Production status-54994.executor": "Run",
+    "Cucumber Java.Scenario: Check whether admin user is able to view application in pending approve status-54986.executor": "Run",
+    "Cucumber Java.Scenario: Check whether admin user is able to view the appliations listed to be approved in ‘New Application Requests’-54984.executor": "Run",
+    "Cucumber Java.Scenario: Check whether admin user is able view SP profile information by clicking on SP name-54993.executor": "Run",
+    "Cucumber Java.Scenario: Check whether admin users are able to login to the system via the common login UI with wrong password.executor": "Run",
+    "Cucumber Java.Scenario: Check whether an email is sent to the SP when the application was rejected by the admin-54982.executor": "Run",
+    "Cucumber Java.Scenario: Check whether is it possible to Edit a contact list being used.executor": "Run",
+    "Cucumber Java.Scenario: Check whether sp users are able to login to the system via the common login UI with wrong password.executor": "Run",
+    "Cucumber Java.Scenario: Check whether users are able to change the profile details by clicking on the username displayed on the top navigation pane-54965.executor": "Run",
+    "Cucumber Java.Scenario: Check whether users are able to change the profile details by clicking on the username displayed on the top navigation pane.executor": "Run",
+    "Cucumber Java.Scenario: Check whether white listed users are able to use limited production applictions-54995.executor": "Run",
+    "Cucumber Java.Scenario: Check whether ‘Forgot Your Password?’ link can be used by SP to request a new password.executor": "Run",
+    "Cucumber Java.Scenario: Delivery options field should view under Send Bulk Message UI for a cooperate user.executor": "Run",
+    "Cucumber Java.Scenario: Department admin should be able to view and approve bulk messages from the assigned applications.executor": "Run",
+    "Cucumber Java.Scenario: Department admin should be able to view, approve or reject bulk messages from the assigned applications.executor": "Run",
+    "Cucumber Java.Scenario: Login as DEP Admin.executor": "Run",
+    "Cucumber Java.Scenario: Login as RPT admin.executor": "Run",
+    "Cucumber Java.Scenario: Login as SDP Admin (1).executor": "Run",
+    "Cucumber Java.Scenario: Login as SDP Admin.executor": "Run",
+    "Cucumber Java.Scenario: Login as SP user.executor": "Run",
+    "Cucumber Java.Scenario: Login as rpt user.executor": "Run",
+    "Cucumber Java.Scenario: Login as sp user.executor": "Run",
+    "Cucumber Java.Scenario: Registering a new user.executor": "Run",
+    "Cucumber Java.Scenario: Submitting the Organization Details form with valid data.executor": "Run",
+    "Cucumber Java.Scenario: Submitting the Organization Details form without entering data.executor": "Run",
+    "Cucumber Java.Scenario: Verify \"Back\" button functionality in \"Add contact list\" UI.executor": "Run",
+    "Cucumber Java.Scenario: Verify \"Reset\" button functionality in \"Add contact list\" UI.executor": "Run",
+    "Cucumber Java.Scenario: Verify ,Whether a filter option is filtering according to the records..executor": "Run",
+    "Cucumber Java.Scenario: Verify Add Contact list is not possible to SP users.executor": "Run",
+    "Cucumber Java.Scenario: Verify Department Admin user can Add a new Contact List in to \"Contact management\".executor": "Run",
+    "Cucumber Java.Scenario: Verify Department admin user can search an MSISDN in availble Contact Lists.executor": "Run",
+    "Cucumber Java.Scenario: Verify If there is no MSISDN applied into the search bar, below message must be shown on the dashboard..executor": "Run",
+    "Cucumber Java.Scenario: Verify Sample file UI content.executor": "Run",
+    "Cucumber Java.Scenario: Verify a new module named \"Contact List management\" is available to Department Admin user.executor": "Run",
+    "Cucumber Java.Scenario: Verify admin user can view Contact List Content.executor": "Run",
+    "Cucumber Java.Scenario: Verify department admin can search contact lists.executor": "Run",
+    "Cucumber Java.Scenario: Verify the contact lists added by admin user can be used for SP User to create bulk messages-59714, Check coorparate users allowed to reschedule the scheduled message-59427.executor": "Run",
+    "Cucumber Java.Scenario: Verify the contact lists added by admin user can be used for SP User to create bulk messages.executor": "Run",
+    "Cucumber Java.Scenario: Verify the request message have sent to the SDP admin fo approval,The customer care agent should be able to view the secure message, and the status of the request in the dashboard is updated to 'Approved'..executor": "Run",
+    "Cucumber Java.Scenario: Verify the request message have sent to the SDP admin fo approval..executor": "Run",
+    "Cucumber Java.Scenario: Verify the validation messages for invalid data entry (1).executor": "Run",
+    "Cucumber Java.Scenario: Verify the validation messages for invalid data entry.executor": "Run",
+    "Cucumber Java.Scenario: Verify user is blocked if an invalid OTP is entered more than 3 times.executor": "Run",
+    "Cucumber Java.Scenario: Verify whether SDP admin secure message viewer module table view ..executor": "Run",
+    "Cucumber Java.Scenario: Verify whether in the request text box character limit is between 1-100 characters..executor": "Run",
+    "Cucumber Java.Scenario: Verify whether the customer care agent can see the timer in the dashboard after getting approval from the admin.-71479,Verify whether the approved secure message, must be shown in the relevant customer care agent's dashboard in a decrypted format.-71477.executor": "Run",
+    "Cucumber Java.Scenario: Verify whether the customer care agent can see the timer in the dashboard after getting approval from the admin..executor": "Run",
+    "Cucumber Java.Scenario: Verify whether the customer care agent requesting to view the secure message , shown a popup requesting to enter the reason to view..executor": "Run",
+    "Cucumber Java.Scenario: Verify whether the search bar namely \"Search by MSISDN\" must be present to search messages by the MSISDN..executor": "Run",
+    "Cucumber Java.Scenario: Verify whether the secure message viewer is available in the customer care agent login.executor": "Run",
+    "Cucumber Java.Scenario: Verify, If a correct MSISDN is applied in the search bar but no messages were dispatched, below error message must be shown..executor": "Run",
+    "Cucumber Java.Scenario: bulk messaging access portal for SDP Admin.executor": "Run",
+    "Cucumber Java.Scenario: bulk messaging access portal for sp users.executor": "Run",
+    "Cucumber Java.Scenario: check 'view contact list' flows, Verify Department admin user can search an MSISDN in availble Contact Lists.executor": "Run",
+    "Cucumber Java.Scenario: check bulk messaging portal access permissions for sp user.executor": "Run",
+    "Cucumber Java.Scenario: check bulk messaging portal available options fo sp user.executor": "Run",
+    "Cucumber Java.Scenario: check bulk messaging portal available options for SDP Admin.executor": "Run",
+    "Cucumber Java.Scenario: check bulk messaging portal available options for sp user.executor": "Run",
+    "Cucumber Java.Scenario: check bulk messaging portal available options.executor": "Run",
+    "Cucumber Java.Scenario: check bulk messaging portal create applicatin fill application details validations.executor": "Run",
+    "Cucumber Java.Scenario: check bulk messaging portal create application fill application details validations.executor": "Run",
+    "Cucumber Java.Scenario: check bulk messaging portal create application success flow.executor": "Run",
+    "Cucumber Java.Scenario: check sent messages UI.executor": "Run",
+    "Cucumber Java.Scenario: check view option on created applications-55262.executor": "Run",
+    "Cucumber Java.Scenario: check view option on created applications.executor": "Run",
+    "Cucumber Java.Scenario: check whether SP user is able to create an application by clicking on the ‘Create Application’ menu item.-54973,check available components in the sms 'Resource Configure’ link.-54974,check whether if user once configured the resource parameters, “Configure” link shall become “Reconfigure”-54975, Check whether admin user is able to Approve application in pending approve status and Move the app to Active production at the requested time-54990, check what happen if the user apply the application for approval after configuring all the ncs-54977.executor": "Run",
+    "Cucumber Java.Scenario: check whether SP user is able to create an application by clicking on the ‘Create Application’ menu item.-54973,check available components in the sms 'Resource Configure’ link.-54974,check whether if user once configured the resource parameters, “Configure” link shall become “Reconfigure”-54975.executor": "Run",
+    "Cucumber Java.Scenario: check whether SP user is able to create an application by clicking on the ‘Create Application’ menu item.-54973,check available components in the sms 'Resource Configure’ link.-54974.executor": "Run",
+    "Cucumber Java.Scenario: check whether SP user is able to create an application by clicking on the ‘Create Application’ menu item.-54973.executor": "Run",
+    "Cucumber Java.Scenario: check whether sp receive an email when Application approved by admin to the limited production or active production state-54981.executor": "Run",
+    "Cucumber Java.Scenario: check whether sp user is able delete a draft application-54980.executor": "Run",
+    "Cucumber Java.Scenario: check whether sp user shall be able to save a provisioned application as a draft without submitting it for the approval of the admin-54978.executor": "Run",
+    "Cucumber Java.Scenario: check whether user is able to submit application for approval  befor cofigure all ncs details-54976.executor": "Run",
+    "Cucumber Java.Scenario: view bulk messaging portal created applications on dash board.executor": "Run",
+    "JUnit.testRunner.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/indika/Desktop/automated-testing/bankingautmation/Banking",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Features" />
+      <recent name="$PROJECT_DIR$/config/banglalink" />
+      <recent name="$PROJECT_DIR$/config/mspace" />
+      <recent name="$PROJECT_DIR$/config/robi" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/mspace" />
+      <recent name="$PROJECT_DIR$/config/robi" />
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utillities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Check new tab introduced to View Bulk Messaging Application UI-59465">
+    <configuration name="Scenario: Check new tab introduced to View Bulk Messaging Application UI-59465" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/BulkMessagingPortal.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Banking" />
+      <option name="NAME_FILTER" value="^Check new tab introduced to View Bulk Messaging Application UI\-59465$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Check new tab introduced to View Bulk Messaging Application UI\-59465$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Check new tab introduced to View Bulk Messaging Application UI-59465" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Check validation for file upload file upload bulk message campaign creation-59463, Check wheather file upload bulk message campaigns can create successfully-59462" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/BulkMessagingPortal.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Banking" />
+      <option name="NAME_FILTER" value="^Check validation for file upload file upload bulk message campaign creation\-59463\, Check wheather file upload bulk message campaigns can create successfully\-59462$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Check validation for file upload file upload bulk message campaign creation\-59463\, Check wheather file upload bulk message campaigns can create successfully\-59462$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Check validation for file upload file upload bulk message campaign creation-59463, Check wheather file upload bulk message campaigns can create successfully-59462" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify the contact lists added by admin user can be used for SP User to create bulk messages-59714, Check coorparate users allowed to reschedule the scheduled message-59427" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/BulkMessagingPortal.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Banking" />
+      <option name="NAME_FILTER" value="^Verify the contact lists added by admin user can be used for SP User to create bulk messages\-59714\, Check coorparate users allowed to reschedule the scheduled message\-59427$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify the contact lists added by admin user can be used for SP User to create bulk messages\-59714\, Check coorparate users allowed to reschedule the scheduled message\-59427$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify the contact lists added by admin user can be used for SP User to create bulk messages-59714, Check coorparate users allowed to reschedule the scheduled message-59427" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: check bulk messaging portal create application fill application details validations" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/BulkMessagingPortal.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Banking" />
+      <option name="NAME_FILTER" value="^check bulk messaging portal create application fill application details validations$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^check bulk messaging portal create application fill application details validations$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: check bulk messaging portal create application fill application details validations" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: check view option on created applications-55262" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/BulkMessagingPortal.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Banking" />
+      <option name="NAME_FILTER" value="^check view option on created applications\-55262$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^check view option on created applications\-55262$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: check view option on created applications-55262" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Check new tab introduced to View Bulk Messaging Application UI-59465" />
+      <item itemvalue="Cucumber Java.Scenario: Check validation for file upload file upload bulk message campaign creation-59463, Check wheather file upload bulk message campaigns can create successfully-59462" />
+      <item itemvalue="Cucumber Java.Scenario: Verify the contact lists added by admin user can be used for SP User to create bulk messages-59714, Check coorparate users allowed to reschedule the scheduled message-59427" />
+      <item itemvalue="Cucumber Java.Scenario: check bulk messaging portal create application fill application details validations" />
+      <item itemvalue="Cucumber Java.Scenario: check view option on created applications-55262" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Check new tab introduced to View Bulk Messaging Application UI-59465" />
+        <item itemvalue="Cucumber Java.Scenario: Check validation for file upload file upload bulk message campaign creation-59463, Check wheather file upload bulk message campaigns can create successfully-59462" />
+        <item itemvalue="Cucumber Java.Scenario: Verify the contact lists added by admin user can be used for SP User to create bulk messages-59714, Check coorparate users allowed to reschedule the scheduled message-59427" />
+        <item itemvalue="Cucumber Java.Scenario: check view option on created applications-55262" />
+        <item itemvalue="Cucumber Java.Scenario: check bulk messaging portal create application fill application details validations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df4b0321-5796-4584-adf1-1118aee1e0eb" name="Default Changelist" comment="" />
+      <created>1661486039052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661486039052</updated>
+      <workItem from="1661486043345" duration="19318000" />
+      <workItem from="1661734891069" duration="982000" />
+      <workItem from="1661741997508" duration="7265000" />
+      <workItem from="1661822983159" duration="32443000" />
+      <workItem from="1662431678195" duration="4127000" />
+      <workItem from="1663036262713" duration="4847000" />
+      <workItem from="1663291498744" duration="653000" />
+      <workItem from="1663304115148" duration="1318000" />
+      <workItem from="1666921795828" duration="2704000" />
+      <workItem from="1667288529021" duration="605000" />
+      <workItem from="1672977114029" duration="5000" />
+      <workItem from="1672977131900" duration="600000" />
+      <workItem from="1673242708801" duration="1056000" />
+      <workItem from="1676251211055" duration="1567000" />
+      <workItem from="1676602616650" duration="16524000" />
+      <workItem from="1679301086308" duration="1113000" />
+      <workItem from="1679535928383" duration="1013000" />
+      <workItem from="1679564874342" duration="156000" />
+      <workItem from="1681091664636" duration="2369000" />
+      <workItem from="1681297019077" duration="4064000" />
+      <workItem from="1683163744491" duration="860000" />
+      <workItem from="1684317172357" duration="790000" />
+      <workItem from="1684402371917" duration="1213000" />
+      <workItem from="1684464175933" duration="609000" />
+      <workItem from="1685339302930" duration="1732000" />
+    </task>
+    <task id="LOCAL-00001" summary="automation">
+      <option name="closed" value="true" />
+      <created>1719981110470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719981110470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="testRunner - 2023.04.12 at 16h 46m 46s.xml">
+      <configuration name="testRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testRunner - 2023.04.12 at 16h 50m 07s.xml">
+      <configuration name="testRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testRunner - 2023.04.12 at 16h 50m 52s.xml">
+      <configuration name="testRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testRunner - 2023.04.12 at 16h 54m 01s.xml">
+      <configuration name="testRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testRunner - 2023.04.12 at 16h 56m 09s.xml">
+      <configuration name="testRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testRunner - 2023.05.29 at 11h 21m 44s.xml">
+      <configuration name="testRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testRunner - 2023.05.29 at 11h 25m 17s.xml">
+      <configuration name="testRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testRunner - 2023.05.29 at 11h 28m 39s.xml">
+      <configuration name="testRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testRunner - 2023.05.29 at 11h 30m 16s.xml">
+      <configuration name="testRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testRunner - 2023.05.29 at 11h 36m 14s.xml">
+      <configuration name="testRunner" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="107933000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30199203" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.628483" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.61609906" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.37306502" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21354581" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.116099074" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.55727553" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.37306502" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$USER_HOME$/TypeScript-Test/Sample.js" />
+        <option value="$USER_HOME$/TypeScript-Test/DataTypes.js" />
+        <option value="$USER_HOME$/TypeScript-Test/Opertors.js" />
+        <option value="$USER_HOME$/TypeScript-Test/StringMethod.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="automation" />
+    <option name="LAST_COMMIT_MESSAGE" value="automation" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Registration_V3$Scenario__check_bulk_messaging_portal_create_application_success_flow.ic" NAME="Scenario: check bulk messaging portal create application success flow Coverage Results" MODIFIED="1719383169638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Registration_V3$Feature__SeylanLogin.ic" NAME="Feature: SeylanLogin Coverage Results" MODIFIED="1719373912504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Features/GoogleSearch.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/GooglePage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/GoogleSearchSteps.java" />
+    <entry file="jar://$USER_HOME$/installed-old/java/java8/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="967" column="18" selection-start-line="967" selection-start-column="18" selection-end-line="967" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utillities/CFG.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/utillities/sample.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/utillities/sample2.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/SPRegistrationPageSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/SPRegistrationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utillities/Testl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utillities/ActionCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utillities/ConfigDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utillities/OperatorConfigDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="55" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/DashboardPageSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utillities/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mspace/mspace-config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utillities/BrowserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/banglalink/banglalink-config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Features/SP_Registration.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/DashboardPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/testRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/LoginPageSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/robi/robi-config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Features/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
